@@ -1,0 +1,9 @@
+K-NN 
+1- Unsupervised
+2- For clustering
+3- Determines neighbours, requires calculation of distances
+
+Decision Tree
+1- Supervised
+2- For classifying
+3- Predicts the class of given input
